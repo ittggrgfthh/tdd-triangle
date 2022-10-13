@@ -1,8 +1,10 @@
-[![Codemagic build status](https://api.codemagic.io/apps/63478e187b95c41d34b41cc6/release-workflow/status_badge.svg)](https://api.codemagic.io/apps/63478e187b95c41d34b41cc6/release-workflow/status_badge.svg)
-
 # triangle_app
 
 Triangle App is an Application to search triangle types
+
+## Code Magic Badge
+
+[![Codemagic build status](https://api.codemagic.io/apps/63478593896f9fc30ed558ee/63478593896f9fc30ed558ed/status_badge.svg)](https://api.codemagic.io/apps/63478593896f9fc30ed558ee/63478593896f9fc30ed558ed/status_badge.svg)
 
 ## How to Use
 
